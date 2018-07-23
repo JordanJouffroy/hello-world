@@ -1,9 +1,3 @@
 # Read Me de hello-world
 
-C'est quand même plus joli avec plusieurs niveau
-
-**est ce que les tirets marchent ?**
-
-+ oiseau  
-+ chien  
-+ chat  
+This is the first presentation of me on GitHub : Cool !
